@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>DVA_Wrkspce</key>
+<string>1.2</string>
+</prop.pair>
+<prop.pair>
+<key>MonitorInfo</key>
+<prop.list>
+<prop.pair>
+<key>Monitor-0</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>0</int>
+<int type='signed' size='32'>1366</int>
+<int type='signed' size='32'>728</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NumMonitors</key>
+<int type='unsigned' size='32'>1</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>SerCfgMax</key>
+<int type='unsigned' size='32'>1</int>
+</prop.pair>
+<prop.pair>
+<key>TopLevelFrame-0</key>
+<prop.list>
+<prop.pair>
+<key>HasLeftBar</key>
+<false/>
+</prop.pair>
+<prop.pair>
+<key>HasRightBar</key>
+<false/>
+</prop.pair>
+<prop.pair>
+<key>HasStatBar</key>
+<true/>
+</prop.pair>
+<prop.pair>
+<key>HasToolBar</key>
+<false/>
+</prop.pair>
+<prop.pair>
+<key>Splitter</key>
+<prop.list>
+<prop.pair>
+<key>Orient</key>
+<false/>
+</prop.pair>
+<prop.pair>
+<key>Place</key>
+<float>0.5</float>
+</prop.pair>
+<prop.pair>
+<key>Sub1Vis</key>
+<false/>
+</prop.pair>
+<prop.pair>
+<key>Sub2Vis</key>
+<false/>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>StatBarTabType</key>
+<string>Status Bar</string>
+</prop.pair>
+<prop.pair>
+<key>SzPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-8</int>
+<int type='signed' size='32'>-8</int>
+<int type='signed' size='32'>1382</int>
+<int type='signed' size='32'>744</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>WinState</key>
+<prop.list>
+<prop.pair>
+<key>MaxPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MinPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NormalPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>10</int>
+<int type='signed' size='32'>10</int>
+<int type='signed' size='32'>1356</int>
+<int type='signed' size='32'>718</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>ShowCmd</key>
+<int type='signed' size='32'>3</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>UserName</key>
+<ustring>$$$/Premiere/FrontEnd/Editing=Editing</ustring>
+</prop.pair>
+<prop.pair>
+<key>WSInstanceData</key>
+<prop.list>
+<prop.pair>
+<key>FrameReanimMax</key>
+<int type='unsigned' size='32'>0</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+</prop.list>
+</prop.map>
